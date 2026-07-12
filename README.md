@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 ## Sorting
 |  |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
