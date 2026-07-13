@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0219-contains-duplicate-ii](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0013-roman-to-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
