@@ -66,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0013-roman-to-integer) |
 | [0507-perfect-number](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0507-perfect-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
