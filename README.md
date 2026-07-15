@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
