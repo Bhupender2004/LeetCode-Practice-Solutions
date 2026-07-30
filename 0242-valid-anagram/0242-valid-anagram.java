@@ -3,11 +3,11 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        char[] sSort=s.toCharArray();
-        char[] tSort=t.toCharArray();
-        Arrays.sort(sSort);
-        Arrays.sort(tSort);
-        if(Arrays.equals(sSort, tSort)){
+        char [] ssort=s.toCharArray();
+        char [] tsort=t.toCharArray();
+        Arrays.sort(ssort);
+        Arrays.sort(tsort);
+        if(Arrays.equals(ssort, tsort)){
             return true;
         }
         return false;
