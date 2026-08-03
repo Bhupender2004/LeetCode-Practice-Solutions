@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
