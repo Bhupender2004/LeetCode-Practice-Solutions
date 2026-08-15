@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3151-special-array-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3151-special-array-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
