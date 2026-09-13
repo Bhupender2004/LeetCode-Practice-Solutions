@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
