@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1386-cinema-seat-allocation](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1386-cinema-seat-allocation](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Number Theory
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Two Pointers
 |  |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Linked List
 |  |
 | ------- |
