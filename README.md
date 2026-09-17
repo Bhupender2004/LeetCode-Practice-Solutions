@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Linked List
 |  |
