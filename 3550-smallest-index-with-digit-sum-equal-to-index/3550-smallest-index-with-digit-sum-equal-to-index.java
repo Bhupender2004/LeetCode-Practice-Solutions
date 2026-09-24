@@ -7,7 +7,7 @@ class Solution {
         }
         return -1;
     }
-    private int digitSum(int n) {
+    public int digitSum(int n) {
         int sum = 0;
         while (n > 0) {
             sum += n % 10;
