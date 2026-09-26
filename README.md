@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
