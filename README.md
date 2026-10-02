@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
