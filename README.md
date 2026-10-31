@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
