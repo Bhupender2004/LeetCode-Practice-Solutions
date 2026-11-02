@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1254-number-of-closed-islands](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0013-roman-to-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0836-rectangle-overlap) |
