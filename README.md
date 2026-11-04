@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3151-special-array-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3151-special-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Number Theory
 |  |
 | ------- |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Bhupender2004/LeetCode-Practice-Solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
